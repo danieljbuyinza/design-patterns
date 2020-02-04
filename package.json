@@ -1,0 +1,25 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "learning design patterns",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljbuyinza/design-patterns.git"
+  },
+  "author": "danieljbuyinza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieljbuyinza/design-patterns/issues"
+  },
+  "homepage": "https://github.com/danieljbuyinza/design-patterns#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
